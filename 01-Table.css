@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.info {
+  margin: 100px auto;
+}
+.info th,
+.info td {
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+.add {
+  width: 300px;
+  border-right: 2px solid black;
+}
+#lastline > td {
+  border-bottom: 2px solid black;
+}
+.age {
+  width: 100px;
+}
